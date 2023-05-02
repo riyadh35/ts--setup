@@ -1,2 +1,2 @@
-var coursre = 'Next level web development'
-console.log(coursre)
+var coursre = 'Next level web development';
+console.log(coursre);

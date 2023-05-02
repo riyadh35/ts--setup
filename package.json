@@ -1,5 +1,27 @@
 {
   "dependencies": {
     "ts-node-dev": "^2.0.0"
-  }
+  },
+  "name": "first-typescript",
+  "description": "��#\u0000 \u0000t\u0000s\u0000-\u0000-\u0000s\u0000e\u0000t\u0000u\u0000p\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riyadh35/ts--setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riyadh35/ts--setup/issues"
+  },
+  "homepage": "https://github.com/riyadh35/ts--setup#readme"
 }
