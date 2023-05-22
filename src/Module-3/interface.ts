@@ -50,7 +50,6 @@
 // // interface use in array 
 
 // type rollNumbersType = number[];
-
 // interface IRollNumbers {
 //     [index: number]: number;// index signature 
 // }
